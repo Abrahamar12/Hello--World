@@ -1,4 +1,9 @@
-n=int (input("please enter a value"))
-n2=int (input("please enter a value"))
-result=n+n2
-print("the result is",result)
+print("-------------------------------------------------")
+print("_________Quien Quiere ser millonario_____________")
+print("¿Estas listo...")
+print(".")
+input("¿Si o no?")
+print("No importa si estas listo o no, igual vas a jugar")
+print("")
+print("------------------------1era-Pregunta------------------------")
+print("")
